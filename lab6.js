@@ -1,6 +1,7 @@
 window.onload = function(){
     var searchb= document.getElementById("searchb");
     var search= document.getElementById("search");
+    var searchall= document.getElementById("searchall");
     var res= document.getElementById("result");
     searchb.addEventListener("click", function(){
        let xhttp = new  XMLHttpRequest();
