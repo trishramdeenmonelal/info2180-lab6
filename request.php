@@ -25,16 +25,16 @@ $xmldata = '<?xml version="1.0" encoding="UTF-8"?>
     <definition name ="bar" author = "Suzie">
         A place that sells alcholic beverages.
     </definition>
-    <definition name ="ajax" author = "Joavan">
+    <definition name ="ajax" author = "TenTen">
         Technique which involves the use of javascript and xml (or JSON).
     </definition>
-    <definition name ="html" author = "Puran">
+    <definition name ="html" author = "Joe">
        The standard markup language for creating web pages and web applications.
     </definition>
     <definition name ="css" author = "Dajaei">
         A style sheet language used for describing the presentation of a document written in a markup language.
     </definition>
-     <definition name ="javascript" author = "Bavin">
+     <definition name ="javascript" author = "Natalia">
         A lightweight, interpreted programming language with first-class functions that adds interactivity to your website.
     </definition>
      <definition name ="php" author = "Brittnie-Lee">
