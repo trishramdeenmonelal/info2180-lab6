@@ -41,3 +41,6 @@ $xmldata = '<?xml version="1.0" encoding="UTF-8"?>
         A server-side scripting language, and a powerful tool for making dynamic and interactive websites.
     </definition>
 </entries>';
+header('Content-Type: text/xml');
+$xmlOutput = new SimpleXMLElement($xmldata);
+echo $xmlOutput->asXML();
